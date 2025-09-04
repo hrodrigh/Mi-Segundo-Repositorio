@@ -7,6 +7,7 @@ Este es mi primer repositorio!!
 
 -Esto
 -Es
-Una-Lista
+-Una
+-Lista
 
 'Esto es código, bip bup'
