@@ -1,6 +1,6 @@
 # Mi-Segundo-Repositorio
 
-Este es mi primer repositorio!!
+Este es mi segundo repositorio!!
 
 ## Subtítulo
 **Esto está en negritas**
